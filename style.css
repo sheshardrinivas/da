@@ -1,0 +1,80 @@
+body{
+    margin: 0px;
+    padding-top:800px;
+    text-align:center ;   
+    }
+    #img1{ 
+       margin-top:200px;
+       width:200px;
+       height:160px;
+       margin-bottom:50px ;
+       border-radius:5% ;
+    }
+    #welcome{
+        position: absolute;
+        height: 800px; 
+        top:0;
+        left:0 ;
+        right:0 ;
+        bottom:0 ;
+        background:linear-gradient(#52ffd9e0 50%,#01c4ff 70%) ;
+    }
+    
+    h3{
+       color:crimson;
+       font-family: 'Montserrat', sans-serif;
+     }
+    h2{
+       color:crimson;
+       font-family: 'Montserrat', sans-serif;
+    }
+    marquee{
+       color:crimson;
+       font-family:'cursive'; 
+       font-size:20px ;
+    }
+    .menu{ 
+      list-style:none;
+      list-style-type: none;
+   background-color: aqua;
+   width:100% ;
+      position:fixed;
+   margin-top:0px ;
+   top:10px ;
+   
+   z-index:10 ;
+   cursor:pointer;
+   
+    }
+    .links{
+      display: inline;
+   font-family:'Montserrat', sans-serif;
+   color: rgb(255, 4, 79);
+   padding-top:10px ;
+   padding-right:10px ;
+   padding-left:10px;
+   padding-bottom:10px ;
+   font-size:20px ;
+   
+    }
+    .links:hover{
+   background-color: rgb(247, 247, 247);
+   
+   font-size:25px ; 
+   }
+   
+   h1{ 
+   
+      color:aqua;
+   }
+    h5{
+   display: inline;
+    } 
+   
+   
+   
+   
+   
+   
+   
+   
